@@ -1,0 +1,10 @@
+# Provided data is not redistributed - place it in data/ (see README)
+data/*
+!data/README.md
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
